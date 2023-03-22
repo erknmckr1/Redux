@@ -1,0 +1,27 @@
+input{
+  outline: none;  
+  background-color:#FEF5E7 ;
+  border: none;
+  border-bottom: 2px solid #DC7633;
+  width: 3.5rem;
+  
+}
+
+.searchDiv{
+    margin-left: 4rem;
+  
+}
+.focused{
+    width: 10rem;
+    transition: ease-in-out 1s;
+}
+.unfocused{
+    width: 3.5rem;
+    transition: ease-in-out 1s;
+}
+
+@media screen and (max-width:480px) {
+    .searchDiv{
+        margin-right: 4rem;
+    }
+   }

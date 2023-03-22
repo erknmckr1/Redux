@@ -1,0 +1,42 @@
+.footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #FEF5E7;
+    border-top: 2px solid #DC7633 ;
+}
+.author{
+    font-family: 'Mukta', sans-serif;
+    font-size: 1.1rem;
+    font-weight: 500;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-style: italic;
+}
+.brands{
+    width: 8rem !important;
+    display: flex   ;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 2rem;
+}
+.brands a {
+    color: #DC7633 ;
+}
+.brands a:hover{
+    color: #85C1E9;
+    transition: color 0.2s;
+}
+@media screen and (max-width:480px) {
+    .footer{
+        height: 3rem;
+    }
+    .author{
+        font-size: 0.8rem;
+        
+    }
+    .brands{
+        justify-content: space-evenly;
+    }
+   }
