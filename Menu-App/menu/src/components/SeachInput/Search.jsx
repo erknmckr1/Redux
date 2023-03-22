@@ -21,7 +21,7 @@ function Search({ data, setData }) {
     setİsFocused(false)
   }
   return (
-    <div >
+    <div className="searchDiv">
       <div>
         <input
           onChange={handleSearch}
