@@ -3,7 +3,7 @@ import "./search.css";
 function Search({ data, setData }) {
   const [searchKey, setSearchKey] = useState("");
   const [isFocused, setİsFocused] = useState(false);
-  console.log(data);
+
   const handleSearch = (e) => {
     const searchKey = e.target.value.toLowerCase()
     setSearchKey(searchKey);
