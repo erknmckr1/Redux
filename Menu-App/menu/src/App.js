@@ -65,7 +65,7 @@ function App() {
       {/* kart komponent */}
       <div className="row mb-5">
         {menuu.map((item, index) => (
-          <Card category={item} key={index} />
+          <Card  category={item} key={index} />
         ))}
       </div>
       <Footer />

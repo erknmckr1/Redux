@@ -5,7 +5,7 @@ const menu = [
     category: "Makarna",
     type: "Yiyecek",
     price: 14.99,
-    img: "../menu-ımg/FusilliRotini.jpeg",
+    img: "https://res.cloudinary.com/dtar4nbiw/image/upload/v1679651068/menu-app/b4xnt9dnmnsqybdubfxo.jpg",
     desc: `Red bean paste dessert, serving with honey.`,
   },
   {
@@ -14,7 +14,7 @@ const menu = [
     category: "Makarna",
     type: "Yiyecek",
     price: 14.99,
-    img: "../menu-ımg/Lasagna.jpg",
+    img: "https://res.cloudinary.com/dtar4nbiw/image/upload/v1679651069/menu-app/c82cjwshia8a0tsdqzsu.jpg",
     desc: `Red bean paste dessert, serving with honey.`,
   },
   {
@@ -23,7 +23,7 @@ const menu = [
     category: "Makarna",
     type: "Yiyecek",
     price: 14.99,
-    img: "../menu-ımg/Linguini.jpeg",
+    img: "https://res.cloudinary.com/dtar4nbiw/image/upload/v1679651069/menu-app/zmnirlxl6kr9usy5okfp.jpg",
     desc: `Red bean paste dessert, serving with honey.`,
   },
   {
@@ -32,7 +32,7 @@ const menu = [
     category: "Makarna",
     type: "Yiyecek",
     price: 14.99,
-    img: "../menu-ımg/Orecchiette.jpeg",
+    img: "https://res.cloudinary.com/dtar4nbiw/image/upload/v1679651069/menu-app/ofrhb6s8gsudsf9balcq.jpg",
     desc: `Red bean paste dessert, serving with honey.`,
   },
   {
@@ -41,7 +41,7 @@ const menu = [
     category: "Makarna",
     type: "Yiyecek",
     price: 3.99,
-    img: "../menu-ımg/Ravioli.jpeg",
+    img: "https://res.cloudinary.com/dtar4nbiw/image/upload/v1679651069/menu-app/sqx7m8c9nhq2toqvjgyt.jpg",
     desc: `Red bean paste dessert, serving with honey.`,
   },
   {
@@ -50,7 +50,7 @@ const menu = [
     category: "Makarna",
     type: "Yiyecek",
     price: 16.99,
-    img: "../menu-ımg/Spaghetti.jpeg",
+    img: "https://res.cloudinary.com/dtar4nbiw/image/upload/c_limit,f_jpg,fl_lossy.any_format.preserve_transparency.progressive,h_1600,pg_1,q_auto,w_1600/v1/menu-app/xbyqtzufbip7uvnv1wpl",
     desc: `Red bean paste dessert, serving with honey.`,
   },
   {
@@ -59,7 +59,7 @@ const menu = [
     category: "Makarna",
     type: "Yiyecek",
     price: 17.99,
-    img: "../menu-ımg/Tortellini.jpeg",
+    img: "https://res.cloudinary.com/dtar4nbiw/image/upload/c_limit,f_jpg,fl_lossy.any_format.preserve_transparency.progressive,h_1600,pg_1,q_auto,w_1600/v1/menu-app/ggjqdmugwhmnk6ayribu",
     desc: `Red bean paste dessert, serving with honey.`,
   },
 
@@ -69,7 +69,7 @@ const menu = [
     category: "Makarna",
     type: "Yiyecek",
     price: 14.99,
-    img: "../menu-ımg/farfalle.jpeg",
+    img: "https://res.cloudinary.com/dtar4nbiw/image/upload/v1679651068/menu-app/y0nax5ict97cbwcmpfdw.jpg",
     desc: `Red bean paste dessert, serving with honey.`,
   },
   {
@@ -78,7 +78,7 @@ const menu = [
     category: "Makarna",
     type: "Yiyecek",
     price: 3.99,
-    img: "../menu-ımg/Fettuccine.jpeg",
+    img: "https://res.cloudinary.com/dtar4nbiw/image/upload/v1679651068/menu-app/kr9xcosrbzicnce3dahm.jpg",
     desc: `Red bean paste dessert, serving with honey.`,
   },
   {
@@ -87,7 +87,7 @@ const menu = [
     category: "Burger",
     type: "Yiyecek",
     price: 13.99,
-    img: "../menu-ımg/cheeseburger.webp",
+    img: "https://res.cloudinary.com/dtar4nbiw/image/upload/v1679651067/menu-app/ym2nguvdifly3msyltpu.webp",
     desc: `Red bean paste dessert, serving with honey.`,
   },
   {
@@ -96,7 +96,7 @@ const menu = [
     category: "Burger",
     type: "Yiyecek",
     price: 16.99,
-    img: "../menu-ımg/kiwiburger.webp",
+    img: "https://res.cloudinary.com/dtar4nbiw/image/upload/v1679651069/menu-app/a0n7fozbkgx6bnqzyt1x.webp",
     desc: `Red bean paste dessert, serving with honey.`,
   },
   {
@@ -105,7 +105,7 @@ const menu = [
     category: "Burger",
     type: "Yiyecek",
     price: 21.99,
-    img: "../menu-ımg/fried-onion-burgers.webp",
+    img: "https://res.cloudinary.com/dtar4nbiw/image/upload/v1679651068/menu-app/ulavqylpki0epa8k3hc0.webp",
     desc: `Red bean paste dessert, serving with honey.`,
   },
   {
@@ -114,7 +114,7 @@ const menu = [
     category: "Burger",
     type: "Yiyecek",
     price: 19.99,
-    img: "../menu-ımg/slider-burger.webp",
+    img: "https://res.cloudinary.com/dtar4nbiw/image/upload/c_limit,f_jpg,fl_lossy.any_format.preserve_transparency.progressive,h_1600,pg_1,q_auto,w_1600/v1/menu-app/x2ib17evpshxveqgszbg",
     desc: `Red bean paste dessert, serving with honey.`,
   },
   {
@@ -123,7 +123,7 @@ const menu = [
     category: "Burger",
     type: "Yiyecek",
     price: 12.99,
-    img: "../menu-ımg/pimento-cizburger.webp",
+    img: "https://res.cloudinary.com/dtar4nbiw/image/upload/v1679651069/menu-app/oww6mvh2bdkzwq48yige.webp",
     desc: `Red bean paste dessert, serving with honey.`,
   },
   {
@@ -132,7 +132,7 @@ const menu = [
     category: "Burger",
     type: "Yiyecek",
     price: 13.99,
-    img: "../menu-ımg/greenburger.webp",
+    img: "https://res.cloudinary.com/dtar4nbiw/image/upload/v1679651068/menu-app/mpzkk18rmg3emy9c5m7w.webp",
     desc: `Red bean paste dessert, serving with honey.`,
   },
   {
@@ -141,7 +141,7 @@ const menu = [
     category: "Dürüm",
     type: "Yiyecek",
     price: 3.99,
-    img: '../menu-ımg/burrito.jpeg',
+    img: 'https://res.cloudinary.com/dtar4nbiw/image/upload/v1679651067/menu-app/ayuz8id014n7qbsyfw6h.webp',
     desc: `Red bean paste dessert, serving with honey.`,
   },
   {
@@ -150,7 +150,7 @@ const menu = [
     category: "Dürüm",
     type: "Yiyecek",
     price: 3.99,
-    img: "../menu-ımg/enchiladas-d.webp",
+    img: "https://res.cloudinary.com/dtar4nbiw/image/upload/v1679651067/menu-app/vzxj01qogopmqyospwx5.webp",
     desc: `Red bean paste dessert, serving with honey.`,
   },
   {
@@ -159,7 +159,7 @@ const menu = [
     category: "Dürüm",
     type: "Yiyecek",
     price: 3.99,
-    img: "../menu-ımg/carna.webp",
+    img: "https://res.cloudinary.com/dtar4nbiw/image/upload/v1679651067/menu-app/ch586st1crrcj36dbcja.webp",
     desc: `Red bean paste dessert, serving with honey.`,
   },
   {
@@ -168,7 +168,7 @@ const menu = [
     category: "Sıcak",
     type: "İçecek",
     price: 3.99,
-    img: "../menu-ımg/latte.jpeg",
+    img: "https://res.cloudinary.com/dtar4nbiw/image/upload/v1679651069/menu-app/llbqgsllfxqhudjyrpcf.jpg",
     desc: `Red bean paste dessert, serving with honey.`,
   },
   {
@@ -177,7 +177,7 @@ const menu = [
     category: "Sıcak",
     type: "İçecek",
     price: 3.99,
-    img: "../menu-ımg/macchiato.jpeg",
+    img: "https://res.cloudinary.com/dtar4nbiw/image/upload/v1679651069/menu-app/txydvrit9hy4upwhb0yh.jpg",
     desc: `Red bean paste dessert, serving with honey.`,
   },
   {
@@ -186,7 +186,7 @@ const menu = [
     category: "Sıcak",
     type: "İçecek",
     price: 3.99,
-    img: "../menu-ımg/türk-kahvesi.webp",
+    img: "https://res.cloudinary.com/dtar4nbiw/image/upload/c_limit,f_jpg,fl_lossy.any_format.preserve_transparency.progressive,h_1600,pg_1,q_auto,w_1600/v1/menu-app/eid7zj5vwnlar1wgrja4",
     desc: `Red bean paste dessert, serving with honey.`,
   },
   {
@@ -195,7 +195,7 @@ const menu = [
     category: "Sıcak",
     type: "İçecek",
     price: 3.99,
-    img: "../menu-ımg/white_mocca.jpeg",
+    img: "https://res.cloudinary.com/dtar4nbiw/image/upload/c_limit,f_jpg,fl_lossy.any_format.preserve_transparency.progressive,h_1600,pg_1,q_auto,w_1600/v1/menu-app/sdpitcmkwkj3uoyurceu",
     desc: `Red bean paste dessert, serving with honey.`,
   },
   {
@@ -204,7 +204,7 @@ const menu = [
     category: "Sıcak",
     type: "İçecek",
     price: 3.99,
-    img: "../menu-ımg/white-c-mocca.webp",
+    img: "https://res.cloudinary.com/dtar4nbiw/image/upload/c_limit,f_jpg,fl_lossy.any_format.preserve_transparency.progressive,h_1600,pg_1,q_auto,w_1600/v1/menu-app/jmskx4tbaaclwn8hbom4",
     desc: `Red bean paste dessert, serving with honey.`,
   },
   {
@@ -213,7 +213,7 @@ const menu = [
     category: "Sıcak",
     type: "İçecek",
     price: 3.99,
-    img: "../menu-ımg/espresso.jpeg",
+    img: "https://res.cloudinary.com/dtar4nbiw/image/upload/v1679651067/menu-app/vrmiklson7ic2vnp1vsw.jpg",
     desc: `Red bean paste dessert, serving with honey.`,
   },
   {
@@ -222,7 +222,7 @@ const menu = [
     category: "Soguk",
     type: "İçecek",
     price: 3.99,
-    img: "../menu-ımg/ice-latte.jpeg",
+    img: "https://res.cloudinary.com/dtar4nbiw/image/upload/v1679651069/menu-app/p2npzvlm6flay1tyzmyq.jpg",
     desc: `Red bean paste dessert, serving with honey.`,
   },
   {
@@ -231,7 +231,7 @@ const menu = [
     category: "Soguk",
     type: "İçecek",
     price: 3.99,
-    img: "../menu-ımg/ice-americano.jpeg",
+    img: "https://res.cloudinary.com/dtar4nbiw/image/upload/v1679651068/menu-app/eeaupyr38rwwbbebkbb6.jpg",
     desc: `Red bean paste dessert, serving with honey.`,
   },
   {
@@ -240,7 +240,7 @@ const menu = [
     category: "Frappe",
     type: "İçecek",
     price: 3.99,
-    img: "../menu-ımg/karamel-frappe.webp",
+    img: "https://res.cloudinary.com/dtar4nbiw/image/upload/v1679651069/menu-app/jwtndaqlsuhhj7a5u9wm.webp",
     desc: `Red bean paste dessert, serving with honey.`,
   },
   {
@@ -249,7 +249,7 @@ const menu = [
     category: "Frappe",
     type: "İçecek",
     price: 3.99,
-    img: "../menu-ımg/dondurmalı-frappe.jpeg",
+    img: "https://res.cloudinary.com/dtar4nbiw/image/upload/v1679651067/menu-app/sknuzcd5uzdnza2tofyx.avif",
     desc: `Red bean paste dessert, serving with honey.`,
   },
   {
@@ -258,7 +258,7 @@ const menu = [
     category: "Frappe",
     type: "İçecek",
     price: 3.99,
-    img: "../menu-ımg/oreo-frappe.jpeg",
+    img: "https://res.cloudinary.com/dtar4nbiw/image/upload/v1679651069/menu-app/uuddnkau9tsuphtaqbhi.jpg",
     desc: `Red bean paste dessert, serving with honey.`,
   },
   
